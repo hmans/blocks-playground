@@ -1,8 +1,8 @@
 Hello!
 
 <BlockComponent
-block={{owner: "githubnext", repo: "blocks-examples", "id": "sandbox-block"}}
-context={{path: "examples/framer motion docs/example2.js"}}
+block={{owner: "hmans", repo: "blocks-playground", "id": "sandbox-block"}}
+context={{path: "README.md"}}
 height="30em"
 state={{
   highlights:"6,7",
